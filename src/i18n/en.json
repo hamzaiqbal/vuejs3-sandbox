@@ -1,0 +1,31 @@
+{
+  "app": {
+    "name": "VueJS Jobs (EN)"
+  },
+  "actions": {
+    "search": "Search",
+    "reset": "Reset",
+    "create": "Create"
+  },
+  "jobTypes": {
+    "frontendDeveloper": "Front-End Dev",
+    "backendDeveloper": "Back-End Dev",
+    "uxDesigner": "UX Designer",
+    "uiDesigner": "UI Designer",
+    "productDesigner": "Product Designer",
+    "uxResearcher": "UX Researcher",
+    "productOwner": "Product Owner",
+    "productManager": "Product Manager"
+  },
+  "searchForm": {
+    "title": "Search for jobs",
+    "type": "Type:",
+    "location": "Location:",
+    "experienceMin": "Experience min:",
+    "experienceMax": "Experience max:",
+    "onlyActive": "Only active jobs:"
+  },
+  "searchResults": {
+    "title": "No result | 1 job found | {count} jobs found"
+  }
+}
